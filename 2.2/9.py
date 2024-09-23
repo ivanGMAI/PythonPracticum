@@ -1,0 +1,5 @@
+g = input()
+e = input()
+c = input()
+b = min(g, e, c)
+print(b)
